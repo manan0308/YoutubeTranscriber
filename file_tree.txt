@@ -1,0 +1,54 @@
+.
+├── README.md
+├── SETUP.md
+├── backend
+│   ├── .env
+│   ├── SETUP.md
+│   ├── app.log
+│   ├── app.py
+│   └── requirements.txt
+├── file_tree.txt
+├── frontend
+│   ├── SETUP.md
+│   ├── file_tree.txt
+│   ├── index.html
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── postcss.config.js
+│   ├── public
+│   ├── src
+│   │   ├── App.jsx
+│   │   ├── components
+│   │   │   ├── Footer.jsx
+│   │   │   ├── Layout.jsx
+│   │   │   ├── Navbar.jsx
+│   │   │   ├── mode-toggle.jsx
+│   │   │   ├── theme-provider.jsx
+│   │   │   └── ui
+│   │   │       ├── alert.jsx
+│   │   │       ├── button.jsx
+│   │   │       ├── card.jsx
+│   │   │       ├── dropdown-menu.jsx
+│   │   │       ├── form.jsx
+│   │   │       ├── input.jsx
+│   │   │       ├── label.jsx
+│   │   │       ├── progress.jsx
+│   │   │       └── sheet.jsx
+│   │   ├── index.css
+│   │   ├── lib
+│   │   │   └── utils.js
+│   │   ├── main.jsx
+│   │   ├── pages
+│   │   │   ├── HomePage.jsx
+│   │   │   ├── NotFoundPage.jsx
+│   │   │   └── TranscriptPage.jsx
+│   │   ├── store
+│   │   │   └── transcriptionStore.js
+│   │   └── utils
+│   │       └── youtube.js
+│   ├── tailwind.config.js
+│   └── vite.config.js
+├── package-lock.json
+└── setup-ui-components.sh
+
+11 directories, 41 files

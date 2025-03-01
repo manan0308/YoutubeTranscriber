@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Environment files
+.env
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Misc
+*.swp
+*.swo .env
